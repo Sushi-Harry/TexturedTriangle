@@ -1,3 +1,5 @@
+//I didn't make this shader. It's from leanropengl.com
+
 #version 330 core
 out vec4 FragColor;
 
